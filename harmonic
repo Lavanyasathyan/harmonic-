@@ -1,0 +1,18 @@
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        
+        
+        
+        String inputPhrase = scanner.nextLine();
+        
+       
+        System.out.println("The cosmic resonance of your phrase unfolds: " + inputPhrase);
+       
+    }
+}
